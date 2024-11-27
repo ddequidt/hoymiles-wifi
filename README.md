@@ -15,6 +15,8 @@ The library was successfully tested with:
 - Hoymiles HMS-800W-2T
 - Hoymiles DTU-WLite
 - Hoymiles DTU-Pro
+- Solenso  H-1000 (not tested for command, only to get data)
+- Solenso  DTU_SLS (not tested for command, only to get data)
 
 ## Installation
 
